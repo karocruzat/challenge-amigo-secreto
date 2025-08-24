@@ -35,6 +35,6 @@ Haz clic en "Sortear amigo" para conocer tu amigo secreto.
 
 CAROLINA CRUZAT sAN MARTÍN
 
-🙏 Agradecimientos 🙏
+<h1>🙏 Agradecimientos 🙏</h1>
 
 Quiero agradecer a Alura Latam y Oracle por el programa ONE, también a esta comunidad de aprendizaje por impulsar mi curiosidad y darme las herramientas para seguir creciendo en el mundo de la programación. Este pequeño proyecto del Amigo Secreto 🎁 no solo representa un ejercicio técnico, sino también una oportunidad para desafiarme, aprender de los errores y celebrar cada logro en este camino. Gracias a mis compañeros, mentores ya todas las personas que me motivan día a día a seguir aprendiendo y confiando en que cada línea de código es un paso más hacia mis metas. 🚀💻
