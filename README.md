@@ -33,7 +33,7 @@ Haz clic en "Sortear amigo" para conocer tu amigo secreto.
 
 <h1>📜 Autor 📜</h1>
 
-Carolina Cruzat
+CAROLINA CRUZAT sAN MARTÍN
 
 🙏 Agradecimientos 🙏
 
